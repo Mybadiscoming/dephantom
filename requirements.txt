@@ -1,0 +1,21 @@
+
+# Path: backend/requirements.txt
+
+# Backend framework
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+
+# Web search
+ddgs
+
+# Machine learning and NLP
+torch
+transformers
+sentencepiece
+scikit-learn
+numpy
+
+# Optional observability
+galileo
